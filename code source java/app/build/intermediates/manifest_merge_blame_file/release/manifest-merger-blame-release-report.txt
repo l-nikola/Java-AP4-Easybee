@@ -1,0 +1,154 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.ap4"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="27"
+8-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:30:5-67
+11-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:30:22-64
+12    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+12-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:31:5-79
+12-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:31:22-76
+13    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+13-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:32:5-79
+13-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:32:22-76
+14    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+14-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:33:5-81
+14-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:33:22-78
+15
+16    <uses-feature
+16-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:26:5-28:35
+17        android:glEsVersion="0x00020000"
+17-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:27:9-41
+18        android:required="true" />
+18-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:28:9-32
+19
+20    <queries>
+20-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:30:5-34:15
+21
+22        <!-- Needs to be explicitly declared on Android R+ -->
+23        <package android:name="com.google.android.apps.maps" />
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:9-64
+23-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:33:18-61
+24    </queries>
+25
+26    <permission
+26-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:22:5-24:47
+27        android:name="com.example.ap4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+27-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:23:9-81
+28        android:protectionLevel="signature" />
+28-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:24:9-44
+29
+30    <uses-permission android:name="com.example.ap4.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+30-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:5-97
+30-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:26:22-94
+31
+32    <application
+32-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:5:5-29:19
+33        android:allowBackup="true"
+33-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:6:9-35
+34        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+34-->[androidx.core:core:1.9.0] C:\Users\Darkus\.gradle\caches\transforms-3\ec4f76f6c0c02de8ba18086e7bd9baf5\transformed\core-1.9.0\AndroidManifest.xml:28:18-86
+35        android:dataExtractionRules="@xml/data_extraction_rules"
+35-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:7:9-65
+36        android:extractNativeLibs="false"
+37        android:fullBackupContent="@xml/backup_rules"
+37-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:8:9-54
+38        android:icon="@mipmap/ic_launcher"
+38-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:9:9-43
+39        android:label="@string/app_name"
+39-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:10:9-41
+40        android:supportsRtl="true"
+40-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:11:9-35
+41        android:theme="@style/Theme.AP4" >
+41-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:12:9-41
+42        <activity
+42-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:14:9-22:20
+43            android:name="com.example.ap4.MainActivity"
+43-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:15:13-41
+44            android:exported="true" >
+44-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:16:13-36
+45            <intent-filter>
+45-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:17:13-21:29
+46                <action android:name="android.intent.action.MAIN" />
+46-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:18:17-69
+46-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:18:25-66
+47
+48                <category android:name="android.intent.category.LAUNCHER" />
+48-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:20:17-77
+48-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:20:27-74
+49            </intent-filter>
+50        </activity>
+51        <activity android:name="com.example.ap4.particulier" />
+51-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:23:9-58
+51-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:23:19-46
+52        <activity android:name="com.example.ap4.authentification" />
+52-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:24:9-63
+52-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:24:19-51
+53        <activity android:name="com.example.ap4.createApiculteur" />
+53-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:25:9-63
+53-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:25:19-51
+54        <activity android:name="com.example.ap4.checkEssaim" />
+54-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:26:9-58
+54-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:26:19-46
+55        <activity android:name="com.example.ap4.listEssaim" />
+55-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:27:9-57
+55-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:27:19-45
+56        <activity android:name="com.example.ap4.essaimEnCharge" />
+56-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:28:9-61
+56-->C:\Users\Darkus\AndroidStudioProjects\AP4\app\src\main\AndroidManifest.xml:28:19-49
+57        <!-- Needs to be explicitly declared on P+ -->
+58        <uses-library
+58-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:39:9-41:40
+59            android:name="org.apache.http.legacy"
+59-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:40:13-50
+60            android:required="false" />
+60-->[com.google.android.gms:play-services-maps:18.1.0] C:\Users\Darkus\.gradle\caches\transforms-3\6db1cf8fbe3e3feef13c720ee5973983\transformed\play-services-maps-18.1.0\AndroidManifest.xml:41:13-37
+61
+62        <activity
+62-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Darkus\.gradle\caches\transforms-3\5466824ca35740d3c6aeb4c5d463f1b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:9-22:45
+63            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+63-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Darkus\.gradle\caches\transforms-3\5466824ca35740d3c6aeb4c5d463f1b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:20:19-85
+64            android:exported="false"
+64-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Darkus\.gradle\caches\transforms-3\5466824ca35740d3c6aeb4c5d463f1b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:22:19-43
+65            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+65-->[com.google.android.gms:play-services-base:18.0.1] C:\Users\Darkus\.gradle\caches\transforms-3\5466824ca35740d3c6aeb4c5d463f1b2\transformed\play-services-base-18.0.1\AndroidManifest.xml:21:19-78
+66
+67        <meta-data
+67-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Darkus\.gradle\caches\transforms-3\732ce7e397b7f0acc6a87a515c0637c3\transformed\play-services-basement-18.0.0\AndroidManifest.xml:21:9-23:69
+68            android:name="com.google.android.gms.version"
+68-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Darkus\.gradle\caches\transforms-3\732ce7e397b7f0acc6a87a515c0637c3\transformed\play-services-basement-18.0.0\AndroidManifest.xml:22:13-58
+69            android:value="@integer/google_play_services_version" />
+69-->[com.google.android.gms:play-services-basement:18.0.0] C:\Users\Darkus\.gradle\caches\transforms-3\732ce7e397b7f0acc6a87a515c0637c3\transformed\play-services-basement-18.0.0\AndroidManifest.xml:23:13-66
+70
+71        <provider
+71-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+72            android:name="androidx.startup.InitializationProvider"
+72-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:25:13-67
+73            android:authorities="com.example.ap4.androidx-startup"
+73-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:26:13-68
+74            android:exported="false" >
+74-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:27:13-37
+75            <meta-data
+75-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+76                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+76-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:30:17-75
+77                android:value="androidx.startup" />
+77-->[androidx.emoji2:emoji2:1.2.0] C:\Users\Darkus\.gradle\caches\transforms-3\791b39fe68826e8543c46f2d7f8b152e\transformed\emoji2-1.2.0\AndroidManifest.xml:31:17-49
+78            <meta-data
+78-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Darkus\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:31:13-33:52
+79                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+79-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Darkus\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:32:17-78
+80                android:value="androidx.startup" />
+80-->[androidx.lifecycle:lifecycle-process:2.4.1] C:\Users\Darkus\.gradle\caches\transforms-3\86041ab2b0d2128b301212662b855cec\transformed\lifecycle-process-2.4.1\AndroidManifest.xml:33:17-49
+81        </provider>
+82    </application>
+83
+84</manifest>
