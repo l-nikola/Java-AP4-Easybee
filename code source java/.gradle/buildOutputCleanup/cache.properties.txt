@@ -1,2 +1,0 @@
-#Wed Apr 12 13:40:33 CEST 2023
-gradle.version=7.5
