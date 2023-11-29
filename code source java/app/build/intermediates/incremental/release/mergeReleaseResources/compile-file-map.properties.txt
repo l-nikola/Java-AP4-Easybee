@@ -1,0 +1,26 @@
+#Sun May 21 04:02:00 CEST 2023
+com.example.ap4.app-main-33\:/mipmap-anydpi-v26/ic_launcher_round.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat
+com.example.ap4.app-main-33\:/drawable/ic_launcher_background.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\drawable_ic_launcher_background.xml.flat
+com.example.ap4.app-main-33\:/layout/listessaim.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_listessaim.xml.flat
+com.example.ap4.app-main-33\:/mipmap-xhdpi/ic_launcher_round.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher_round.webp.flat
+com.example.ap4.app-main-33\:/layout/authentification.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_authentification.xml.flat
+com.example.ap4.app-main-33\:/mipmap-mdpi/ic_launcher.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher.webp.flat
+com.example.ap4.app-main-33\:/drawable-v24/ic_launcher_foreground.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\drawable-v24_ic_launcher_foreground.xml.flat
+com.example.ap4.app-main-33\:/layout/checkessaim.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_checkessaim.xml.flat
+com.example.ap4.app-main-33\:/layout/createapiculteur.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_createapiculteur.xml.flat
+com.example.ap4.app-main-33\:/layout/essaimencharge.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_essaimencharge.xml.flat
+com.example.ap4.app-main-33\:/mipmap-xxhdpi/ic_launcher_round.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher_round.webp.flat
+com.example.ap4.app-main-33\:/mipmap-anydpi-v26/ic_launcher.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat
+com.example.ap4.app-main-33\:/xml/backup_rules.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\xml_backup_rules.xml.flat
+com.example.ap4.app-main-33\:/mipmap-anydpi-v33/ic_launcher.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-anydpi-v33_ic_launcher.xml.flat
+com.example.ap4.app-main-33\:/mipmap-xxxhdpi/ic_launcher.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher.webp.flat
+com.example.ap4.app-main-33\:/mipmap-xhdpi/ic_launcher.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xhdpi_ic_launcher.webp.flat
+com.example.ap4.app-main-33\:/mipmap-xxxhdpi/ic_launcher_round.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxxhdpi_ic_launcher_round.webp.flat
+com.example.ap4.app-main-33\:/layout/particulier.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_particulier.xml.flat
+com.example.ap4.app-main-33\:/mipmap-hdpi/ic_launcher_round.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher_round.webp.flat
+com.example.ap4.app-main-33\:/drawable/easybee.png=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\drawable_easybee.png.flat
+com.example.ap4.app-main-33\:/layout/activity_main.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\layout_activity_main.xml.flat
+com.example.ap4.app-main-33\:/mipmap-mdpi/ic_launcher_round.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-mdpi_ic_launcher_round.webp.flat
+com.example.ap4.app-main-33\:/mipmap-hdpi/ic_launcher.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-hdpi_ic_launcher.webp.flat
+com.example.ap4.app-main-33\:/mipmap-xxhdpi/ic_launcher.webp=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\mipmap-xxhdpi_ic_launcher.webp.flat
+com.example.ap4.app-main-33\:/xml/data_extraction_rules.xml=C\:\\Users\\Darkus\\AndroidStudioProjects\\AP4\\app\\build\\intermediates\\merged_res\\release\\xml_data_extraction_rules.xml.flat
